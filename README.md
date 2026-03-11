@@ -35,7 +35,8 @@
 | [kubernetes](https://github.com/style520/kubernetes) | 🔒 私有 Kubernetes 集群配置与自动化部署方案（闭源） | - |
 | [pps](https://github.com/feike-unit/pps) | 🏭 生产计划排程系统（Production Planning System），包含需求管理、产能规划、排产执行等功能，支持 Docker/K8s 部署（后端 Spring Boot + 前端 React） | - |
 | [front-pps](https://github.com/feike-unit/front-pps) | 🏭 生产计划管理系统前端，基于 React + TypeScript + RSBuild + Less 构建 | - |
-| [data-analysis-ai-agent](https://github.comizerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
+| [data-analysis-ai-agent](https://github.com/izerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
+| [flink-cdc](https://github.com/izerui/flink-cdc) | 🔒 Apache Flink CDC 实时数据同步系统，支持 MySQL 到 PostgreSQL/ClickHouse/Doris/MySQL 多目标数据库同步<br>支持全量+增量混合模式、表结构自动创建、数据类型智能映射、表名映射转换等 | - |
 | [scanrun](https://github.com/izerui/scanrun) | 📦 扫码装箱程序，用于亚马逊透明计划等场景的扫码与装箱管理（PySide6 桌面应用） | - |
 | [satellite](https://github.com/izerui/satellite) | 🛰️ 卫星轨道计算与预测系统，基于 Spring Boot + predict4java，实现卫星 TLE 轨道计算、过境预测等功能 | - |
 
