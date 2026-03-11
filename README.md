@@ -32,6 +32,9 @@
 | [langgraph-vue3-chatbot](https://github.com/izerui/langgraph-vue3-chatbot) | 🤖 AI Chatbot 前端悬浮对话组件，可集成到业务系统<br>🔒 后端基于闭源的 [simple-agents](https://github.com/izerui/simple-agents) 提供 Agent 能力<br>💼 提供 B 端客户私有化部署及企业内部系统集成付费开发方案 | 0 |
 | [browser-fetch](https://github.com/izerui/browser-fetch) | 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
 | [simple-agents](https://github.com/izerui/simple-agents) | 🔒 私有化 Agent 核心引擎（闭源）<br>为企业提供私有部署的 AI Agent 解决方案 | - |
+| [kubernetes](https://github.com/style520/kubernetes) | 🔒 私有 Kubernetes 集群配置与自动化部署方案（闭源） | - |
+| [pps](https://github.com/feike-unit/pps) | 🏭 生产计划排程系统（Production Planning System），包含需求管理、产能规划、排产执行等功能，支持 Docker/K8s 部署（后端 Spring Boot + 前端 React） | - |
+| [front-pps](https://github.com/feike-unit/front-pps) | 🏭 生产计划管理系统前端，基于 React + TypeScript + RSBuild + Less 构建 | - |
 | [data-analysis-ai-agent](https://github.comizerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
 | [scanrun](https://github.com/izerui/scanrun) | 📦 扫码装箱程序，用于亚马逊透明计划等场景的扫码与装箱管理（PySide6 桌面应用） | - |
 
