@@ -29,8 +29,9 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [langgraph-vue3-chatbot](https://github.com/izerui/langgraph-vue3-chatbot) | AI Chatbot 前端悬浮对话组件，可集成到业务系统 | 0 |
+| [langgraph-vue3-chatbot](https://github.com/izerui/langgraph-vue3-chatbot) | 🤖 AI Chatbot 前端悬浮对话组件，可集成到业务系统<br>🔒 后端基于闭源的 [simple-agents](https://github.com/izerui/simple-agents) 提供 Agent 能力<br>💼 提供 B 端客户私有化部署及企业内部系统集成付费开发方案 | 0 |
 | [browser-fetch](https://github.com/izerui/browser-fetch) | 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
+| [simple-agents](https://github.com/izerui/simple-agents) | 🔒 私有化 Agent 核心引擎（闭源）<br>为企业提供私有部署的 AI Agent 解决方案 | - |
 | [data-analysis-ai-agent](https://github.comizerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
 | [scanrun](https://github.com/izerui/scanrun) | 扫描工具 | - |
 
@@ -109,6 +110,25 @@
 | [activiti-next-taskDef-handle](https://github.com/izerui/activiti-next-taskDef-handle) | Activiti 获取下个即将流转的 UserTask 节点 | 0 |
 | [struts2-advanced-modelDriven](https://github.com/izerui/struts2-advanced-modelDriven) | Struts2 ModelDriven 高级应用 | 1 |
 | [activiti-bpmn-converter-exposition](https://github.com/izerui/activiti-bpmn-converter-exposition) | Activiti BPMN XML Converter 源码解析 | 1 |
+
+---
+
+## Commercial Services
+
+<div align="center">
+
+### 🤖 Enterprise AI Agent Solutions
+
+| Service | Description |
+|---------|-------------|
+| **私有化 Agent 部署** | 为企业提供基于 simple-agents 的私有化 AI Agent 部署服务 |
+| **企业内部系统集成** | 将 AI Agent 能力集成到企业现有业务系统（ERP、CRM、OA 等） |
+| **定制化工作流开发** | 根据企业业务场景定制 Agent 工作流和自动化流程 |
+| **技术咨询与培训** | 云原生架构、智能体架构设计与技术培训 |
+
+> 💡 如有需求，欢迎联系洽谈定制开发方案
+
+</div>
 
 ---
 
