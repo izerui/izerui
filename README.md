@@ -29,6 +29,7 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [spring-boot-parent](https://github.com/izerui/spring-boot-parent) | ☕ Spring Boot 企业内部开发基础框架，提供统一的项目脚手架和依赖管理 | 0 |
 | [langgraph-vue3-chatbot](https://github.com/izerui/langgraph-vue3-chatbot) | 🤖 AI Chatbot 前端悬浮对话组件，可集成到业务系统<br>🔒 后端基于闭源的 [simple-agents](https://github.com/izerui/simple-agents) 提供 Agent 能力<br>💼 提供 B 端客户私有化部署及企业内部系统集成付费开发方案 | 0 |
 | [browser-fetch](https://github.com/izerui/browser-fetch) | 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
 | [simple-agents](https://github.com/izerui/simple-agents) | 🔒 私有化 Agent 核心引擎（闭源）<br>为企业提供私有部署的 AI Agent 解决方案 | - |
