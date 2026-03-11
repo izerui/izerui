@@ -29,7 +29,6 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [spring-boot-parent](https://github.com/izerui/spring-boot-parent) | ☕ Spring Boot 企业内部开发基础框架，提供统一的项目脚手架和依赖管理 | 0 |
 | [langgraph-vue3-chatbot](https://github.com/izerui/langgraph-vue3-chatbot) | 🤖 AI Chatbot 前端悬浮对话组件，可集成到业务系统<br>🔒 后端基于闭源的 [simple-agents](https://github.com/izerui/simple-agents) 提供 Agent 能力<br>💼 提供 B 端客户私有化部署及企业内部系统集成付费开发方案 | 0 |
 | [browser-fetch](https://github.com/izerui/browser-fetch) | 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
 | [simple-agents](https://github.com/izerui/simple-agents) | 🔒 私有化 Agent 核心引擎（闭源）<br>为企业提供私有部署的 AI Agent 解决方案 | - |
@@ -94,10 +93,11 @@
 | [mysql-processor](https://github.com/izerui/mysql-processor) | 🚀 零依赖 MySQL 数据库迁移工具，支持多线程并行迁移，Docker 一键部署 | 0 |
 | [redis-explorer](https://github.com/izerui/redis-explorer) | 🔴 Redis 客户端工具，支持 Web 界面管理 Redis 数据 | 0 |
 
-### Classic Projects (2013-2022)
+### Classic Projects (2013-2024)
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [spring-boot-parent](https://github.com/izerui/spring-boot-parent) | ☕ Spring Boot 企业内部开发基础框架，提供统一的项目脚手架和依赖管理 | 0 |
 | [tomcat-redis-session-manager](https://github.com/izerui/tomcat-redis-session-manager) | 🔴 使用 Redis 配置 Tomcat 共享 Session | **90** |
 | [cas-server-integration-redis](https://github.com/izerui/cas-server-integration-redis) | 🔐 CAS Ticket Registry，已被官方收录 | 37 |
 | [activiti-explorer](https://github.com/izerui/activiti-explorer) | ⚡ Activiti Explorer 集成版本 | 17 |
