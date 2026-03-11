@@ -33,7 +33,7 @@
 | [browser-fetch](https://github.com/izerui/browser-fetch) | 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
 | [simple-agents](https://github.com/izerui/simple-agents) | 🔒 私有化 Agent 核心引擎（闭源）<br>为企业提供私有部署的 AI Agent 解决方案 | - |
 | [data-analysis-ai-agent](https://github.comizerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
-| [scanrun](https://github.com/izerui/scanrun) | 扫描工具 | - |
+| [scanrun](https://github.com/izerui/scanrun) | 📦 扫码装箱程序，用于亚马逊透明计划等场景的扫码与装箱管理（PySide6 桌面应用） | - |
 
 ### Cloud Native & DevOps (2024-2025)
 
@@ -62,8 +62,8 @@
 | [temu-spider](https://github.com/izerui/temu-spider) | Temu 网络爬虫 | 1 |
 | [shoppe-fetcher](https://github.com/izerui/shoppe-fetcher) | 虾皮广告收集器 Chrome 插件 | 0 |
 | [pydog](https://github.com/izerui/pydog) | 网狗盘 | 0 |
-| [pinduoduo](https://github.com/izerui/pinduoduo) | 拼多多商家后台手机爬取器 | 1 |
-| [amazon-transparency-scanrun](https://github.com/izerui/amazon-transparency-scanrun) | 亚马逊透明计划 Transparency 服务代理 / 扫码装箱 | 0 |
+| [pinduoduo](https://github.com/izerui/pinduoduo) | 🛒 拼多多商家后台手机爬取器 | 1 |
+| [amazon-transparency-scanrun](https://github.com/izerui/amazon-transparency-scanrun) | SourceMark v2 - 亚马逊透明计划 Transparency 服务代理 / 扫码装箱 | 0 |
 
 ### Document & OCR (2023-2024)
 
@@ -77,7 +77,7 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [work-weixin-spring-boot](https://github.com/izerui/work-weixin-spring-boot) | 企业微信 Spring Boot Starter，支持自建应用和第三方应用 | 26 |
+| [work-weixin-spring-boot](https://github.com/izerui/work-weixin-spring-boot) | 📱 基于 WxJava 企业微信的多租户 Spring Boot Starter，支持自建应用和第三方应用 | 26 |
 | [aspose-crack-jars](https://github.com/izerui/aspose-crack-jars) | Aspose Crack 程序 | 10 |
 
 ### Database Tools (2015-2023)
@@ -85,7 +85,7 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [zookeeper-explorer](https://github.com/izerui/zookeeper-explorer) | Zookeeper 数据浏览器 | 38 |
-| [mysql-processor](https://github.com/izerui/mysql-processor) | MySQL 备份导出、导入工具 | 0 |
+| [mysql-processor](https://github.com/izerui/mysql-processor) | 🚀 零依赖 MySQL 数据库迁移工具，支持多线程并行迁移，Docker 一键部署 | 0 |
 | [redis-explorer](https://github.com/izerui/redis-explorer) | Redis 客户端工具 | 0 |
 
 ### Classic Projects (2013-2022)
@@ -96,20 +96,20 @@
 | [cas-server-integration-redis](https://github.com/izerui/cas-server-integration-redis) | CAS Ticket Registry，已被官方收录 | 37 |
 | [activiti-explorer](https://github.com/izerui/activiti-explorer) | Activiti Explorer 集成版本 | 17 |
 | [flex-dog](https://github.com/izerui/flex-dog) | 基于 Flex 的网络文件管理系统 | 12 |
-| [yeepay](https://github.com/izerui/yeepay) | 易宝支付 JAVA SDK | 6 |
+| [yeepay](https://github.com/izerui/yeepay) | 💰 易宝标准版支付 JAVA SDK（订单支付、退款、查询等接口） | 6 |
 | [java-designers](https://github.com/izerui/java-designers) | Java 设计模式对比详解 | 0 |
-| [wx-java-sdk](https://github.com/izerui/wx-java-sdk) | 微信公众平台 JAVA SDK | 0 |
+| [wx-java-sdk](https://github.com/izerui/wx-java-sdk) | 📣 微信公众平台 JAVA SDK（基于 OkHttp，支持多公众号） | 0 |
 | [dynamic-token](https://github.com/izerui/dynamic-token) | 动态口令生成器，服务端和客户端离线校验 | 1 |
 | [validator](https://github.com/izerui/validator) | 方便扩展的验证组件 | 0 |
 | [base-development-platform](https://github.com/izerui/base-development-platform) | 基础开发框架 | 5 |
-| [table-dynamic-generator](https://github.com/izerui/table-dynamic-generator) | Hibernate 动态创建/删除/更改表及结构 | 4 |
+| [table-dynamic-generator](https://github.com/izerui/table-dynamic-generator) | 📊 动态维护数据库表结构的模型工具 | 4 |
 | [FlexPaper](https://github.com/izerui/FlexPaper) | 基于 ActionScript3 的 PDF 阅读器 | 4 |
 | [cesium-language-writer](https://github.com/izerui/cesium-language-writer) | Cesium CZML Writer | 0 |
 | [appmdi](https://github.com/izerui/appmdi) | APP-MDI Flex 应用多文档接口库 | 0 |
 | [CairngormBuilder](https://github.com/izerui/CairngormBuilder) | Flex Cairngorm 代码生成器 | 0 |
 | [activiti-next-taskDef-handle](https://github.com/izerui/activiti-next-taskDef-handle) | Activiti 获取下个即将流转的 UserTask 节点 | 0 |
 | [struts2-advanced-modelDriven](https://github.com/izerui/struts2-advanced-modelDriven) | Struts2 ModelDriven 高级应用 | 1 |
-| [activiti-bpmn-converter-exposition](https://github.com/izerui/activiti-bpmn-converter-exposition) | Activiti BPMN XML Converter 源码解析 | 1 |
+| [activiti-bpmn-converter-exposition](https://github.com/izerui/activiti-bpmn-converter-exposition) | 📖 Activiti BPMN XML Converter 源码解析 | 1 |
 
 ---
 
