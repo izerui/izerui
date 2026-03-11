@@ -46,7 +46,6 @@
 | [dolphie-ui](https://github.com/izerui/dolphie-ui) | 🐬 基于 Docker 的 MySQL 监控 Web 界面，通过 ttyd 提供 Web 访问能力 | 0 |
 | [docker-proxy](https://github.com/izerui/docker-proxy) | 🐳 Docker 代理转发服务，解决国内镜像拉取问题 | 0 |
 | [flink-cdc-monitor](https://github.com/izerui/flink-cdc-monitor) | 🔄 Flink CDC 数据一致性监控工具，实时监控 PostgreSQL 与 MySQL 之间的数据同步状态 | 0 |
-| [k8s-docker-devops](https://github.com/izerui/k8s-docker-devops) | ☸️ K8s Docker DevOps 工具 | - |
 
 ### Data Processing & Migration (2023-2025)
 
@@ -98,6 +97,7 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [spring-boot-parent](https://github.com/izerui/spring-boot-parent) | ☕ Spring Boot 企业内部开发基础框架，提供统一的项目脚手架和依赖管理 | 0 |
+| [k8s-docker-devops](https://github.com/izerui/k8s-docker-devops) | ☸️ Docker、K8s 企业微信 CI/CD DevOps 服务 | - |
 | [tomcat-redis-session-manager](https://github.com/izerui/tomcat-redis-session-manager) | 🔴 使用 Redis 配置 Tomcat 共享 Session | **90** |
 | [cas-server-integration-redis](https://github.com/izerui/cas-server-integration-redis) | 🔐 CAS Ticket Registry，已被官方收录 | 37 |
 | [activiti-explorer](https://github.com/izerui/activiti-explorer) | ⚡ Activiti Explorer 集成版本 | 17 |
