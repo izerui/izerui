@@ -37,7 +37,6 @@
 | [front-pps](https://github.com/feike-unit/front-pps) | 🏭 生产计划管理系统前端，基于 React + TypeScript + RSBuild + Less 构建 | - |
 | [data-analysis-ai-agent](https://github.com/izerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
 | [flink-cdc](https://github.com/izerui/flink-cdc) | 🔒 Apache Flink CDC 实时数据同步系统，支持 MySQL 到 PostgreSQL/ClickHouse/Doris/MySQL 多目标数据库同步<br>支持全量+增量混合模式、表结构自动创建、数据类型智能映射、表名映射转换等 | - |
-| [scanrun](https://github.com/izerui/scanrun) | 📦 扫码装箱程序，用于亚马逊透明计划等场景的扫码与装箱管理（PySide6 桌面应用） | - |
 | [satellite](https://github.com/izerui/satellite) | 🛰️ 卫星轨道计算与预测系统，基于 Spring Boot + predict4java，实现卫星 TLE 轨道计算、过境预测等功能 | - |
 
 ### Cloud Native & DevOps (2024-2025)
@@ -69,6 +68,7 @@
 | [pydog](https://github.com/izerui/pydog) | 🐕 网购盘 Python 版本，支持 K8s 部署 | 0 |
 | [pinduoduo](https://github.com/izerui/pinduoduo) | 🛒 拼多多商家后台手机爬取器 | 1 |
 | [amazon-transparency-scanrun](https://github.com/izerui/amazon-transparency-scanrun) | SourceMark v2 - 亚马逊透明计划 Transparency 服务代理 / 扫码装箱 | 0 |
+| [scanrun](https://github.com/izerui/scanrun) | 📦 扫码装箱程序，用于亚马逊透明计划等场景的扫码与装箱管理（PySide6 桌面应用） | - |
 
 ### Document & OCR (2023-2024)
 
