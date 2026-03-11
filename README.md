@@ -37,34 +37,35 @@
 | [front-pps](https://github.com/feike-unit/front-pps) | 🏭 生产计划管理系统前端，基于 React + TypeScript + RSBuild + Less 构建 | - |
 | [data-analysis-ai-agent](https://github.comizerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
 | [scanrun](https://github.com/izerui/scanrun) | 📦 扫码装箱程序，用于亚马逊透明计划等场景的扫码与装箱管理（PySide6 桌面应用） | - |
+| [satellite](https://github.com/izerui/satellite) | 🛰️ 卫星轨道计算与预测系统，基于 Spring Boot + predict4java，实现卫星 TLE 轨道计算、过境预测等功能 | - |
 
 ### Cloud Native & DevOps (2024-2025)
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [dolphie-ui](https://github.com/izerui/dolphie-ui) | MySQL Web 监控面板 | 0 |
-| [docker-proxy](https://github.com/izerui/docker-proxy) | Docker 代理工具 | 0 |
-| [flink-cdc-monitor](https://github.com/izerui/flink-cdc-monitor) | Fllink CDC MySQL to PostgreSQL 数据一致性监控工具 | 0 |
-| [k8s-docker-devops](https://github.com/izerui/k8s-docker-devops) | K8s Docker DevOps 工具 | - |
+| [dolphie-ui](https://github.com/izerui/dolphie-ui) | 🐬 基于 Docker 的 MySQL 监控 Web 界面，通过 ttyd 提供 Web 访问能力 | 0 |
+| [docker-proxy](https://github.com/izerui/docker-proxy) | 🐳 Docker 代理转发服务，解决国内镜像拉取问题 | 0 |
+| [flink-cdc-monitor](https://github.com/izerui/flink-cdc-monitor) | 🔄 Flink CDC 数据一致性监控工具，实时监控 PostgreSQL 与 MySQL 之间的数据同步状态 | 0 |
+| [k8s-docker-devops](https://github.com/izerui/k8s-docker-devops) | ☸️ K8s Docker DevOps 工具 | - |
 
 ### Data Processing & Migration (2023-2025)
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [fmp-fetch](https://github.com/izerui/fmp-fetch) | 财务凭证自动领取 | 0 |
-| [tenant-data-migration](https://github.com/izerui/tenant-data-migration) | MySQL 数据导入导出/数据同步 | 0 |
-| [mysql-to-pgsql](https://github.com/izerui/mysql-to-pgsql) | 同步 MySQL 到 PostgreSQL 高性能迁移服务 | 0 |
-| [mysql-migration-monitor](https://github.com/izerui/mysql-migration-monitor) | MySQL 迁移对比工具 | 0 |
-| [mongo-processor](https://github.com/izerui/mongo-processor) | MongoDB 导出导入工具 | 0 |
+| [fmp-fetch](https://github.com/izerui/fmp-fetch) | 🌐 基于 Playwright 的网页自动化工具，用于自动点击"领取任务"按钮 | 0 |
+| [tenant-data-migration](https://github.com/izerui/tenant-data-migration) | 🏢 租户镜像数据迁移，MySQL 数据导入导出/数据同步 | 0 |
+| [mysql-to-pgsql](https://github.com/izerui/mysql-to-pgsql) | 🔄 同步 MySQL 到 PostgreSQL 高性能迁移服务，支持 K8s 部署 | 0 |
+| [mysql-migration-monitor](https://github.com/izerui/mysql-migration-monitor) | 🔍 MySQL 数据一致性监控工具，实时监控双数据库数据迁移状态 | 0 |
+| [mongo-processor](https://github.com/izerui/mongo-processor) | 🍃 MongoDB 数据迁移工具，支持导出导入 | 0 |
 
 ### E-commerce & Spider (2023-2024)
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [auto-phone](https://github.com/izerui/auto-phone) | 云手机自动化 | 0 |
-| [temu-spider](https://github.com/izerui/temu-spider) | Temu 网络爬虫 | 1 |
-| [shoppe-fetcher](https://github.com/izerui/shoppe-fetcher) | 虾皮广告收集器 Chrome 插件 | 0 |
-| [pydog](https://github.com/izerui/pydog) | 网狗盘 | 0 |
+| [auto-phone](https://github.com/izerui/auto-phone) | 📱 基于 Spring Boot 3 和火山引擎云手机服务的自动化手机管理系统 | 0 |
+| [temu-spider](https://github.com/izerui/temu-spider) | 🕷️ Temu 网络爬虫（Python + Playwright + PySide6） | 1 |
+| [shoppe-fetcher](https://github.com/izerui/shoppe-fetcher) | 🦐 虾皮广告收集器 Chrome 插件 | 0 |
+| [pydog](https://github.com/izerui/pydog) | 🐕 网购盘 Python 版本，支持 K8s 部署 | 0 |
 | [pinduoduo](https://github.com/izerui/pinduoduo) | 🛒 拼多多商家后台手机爬取器 | 1 |
 | [amazon-transparency-scanrun](https://github.com/izerui/amazon-transparency-scanrun) | SourceMark v2 - 亚马逊透明计划 Transparency 服务代理 / 扫码装箱 | 0 |
 
@@ -72,9 +73,9 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [pdf-processor](https://github.com/izerui/pdf-processor) | PDF 处理工具，不改变原 PDF 质量的前提下添加 Header 并合并 | 0 |
-| [ocr-micro-service](https://github.com/izerui/ocr-micro-service) | OCR REST API 服务 | 0 |
-| [pp-ocr](https://github.com/izerui/pp-ocr) | OCR 批量识别工具 | 0 |
+| [pdf-processor](https://github.com/izerui/pdf-processor) | 📄 PDF 处理工具，不改变原 PDF 质量的前提下添加 Header 并合并 | 0 |
+| [ocr-micro-service](https://github.com/izerui/ocr-micro-service) | 🤖 基于 PaddleOCR 和 Flask 的 OCR 微服务，支持图片和 PDF 文字识别 | 0 |
+| [pp-ocr](https://github.com/izerui/pp-ocr) | 🔤 OCR 批量识别工具，支持 PDF 和图片文字提取 | 0 |
 
 ### Enterprise Tools (2022-2023)
 
@@ -87,32 +88,32 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [zookeeper-explorer](https://github.com/izerui/zookeeper-explorer) | Zookeeper 数据浏览器 | 38 |
+| [zookeeper-explorer](https://github.com/izerui/zookeeper-explorer) | 🦓 Zookeeper 数据浏览器，支持 Web 界面查看节点数据 | 38 |
 | [mysql-processor](https://github.com/izerui/mysql-processor) | 🚀 零依赖 MySQL 数据库迁移工具，支持多线程并行迁移，Docker 一键部署 | 0 |
-| [redis-explorer](https://github.com/izerui/redis-explorer) | Redis 客户端工具 | 0 |
+| [redis-explorer](https://github.com/izerui/redis-explorer) | 🔴 Redis 客户端工具，支持 Web 界面管理 Redis 数据 | 0 |
 
 ### Classic Projects (2013-2022)
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [tomcat-redis-session-manager](https://github.com/izerui/tomcat-redis-session-manager) | 使用 Redis 配置 Tomcat 共享 Session | **90** |
-| [cas-server-integration-redis](https://github.com/izerui/cas-server-integration-redis) | CAS Ticket Registry，已被官方收录 | 37 |
-| [activiti-explorer](https://github.com/izerui/activiti-explorer) | Activiti Explorer 集成版本 | 17 |
-| [flex-dog](https://github.com/izerui/flex-dog) | 基于 Flex 的网络文件管理系统 | 12 |
+| [tomcat-redis-session-manager](https://github.com/izerui/tomcat-redis-session-manager) | 🔴 使用 Redis 配置 Tomcat 共享 Session | **90** |
+| [cas-server-integration-redis](https://github.com/izerui/cas-server-integration-redis) | 🔐 CAS Ticket Registry，已被官方收录 | 37 |
+| [activiti-explorer](https://github.com/izerui/activiti-explorer) | ⚡ Activiti Explorer 集成版本 | 17 |
+| [flex-dog](https://github.com/izerui/flex-dog) | 📁 基于 Flex 的网络文件管理系统 | 12 |
 | [yeepay](https://github.com/izerui/yeepay) | 💰 易宝标准版支付 JAVA SDK（订单支付、退款、查询等接口） | 6 |
-| [java-designers](https://github.com/izerui/java-designers) | Java 设计模式对比详解 | 0 |
+| [java-designers](https://github.com/izerui/java-designers) | 📚 Java 设计模式对比详解 | 0 |
 | [wx-java-sdk](https://github.com/izerui/wx-java-sdk) | 📣 微信公众平台 JAVA SDK（基于 OkHttp，支持多公众号） | 0 |
-| [dynamic-token](https://github.com/izerui/dynamic-token) | 动态口令生成器，服务端和客户端离线校验 | 1 |
-| [validator](https://github.com/izerui/validator) | 方便扩展的验证组件 | 0 |
-| [base-development-platform](https://github.com/izerui/base-development-platform) | 基础开发框架 | 5 |
+| [dynamic-token](https://github.com/izerui/dynamic-token) | 🔑 动态口令生成器，服务端和客户端离线校验 | 1 |
+| [validator](https://github.com/izerui/validator) | ✅ 方便扩展的验证组件 | 0 |
+| [base-development-platform](https://github.com/izerui/base-development-platform) | 🏗️ 基础开发框架 | 5 |
 | [table-dynamic-generator](https://github.com/izerui/table-dynamic-generator) | 📊 动态维护数据库表结构的模型工具 | 4 |
-| [FlexPaper](https://github.com/izerui/FlexPaper) | 基于 ActionScript3 的 PDF 阅读器 | 4 |
-| [cesium-language-writer](https://github.com/izerui/cesium-language-writer) | Cesium CZML Writer | 0 |
-| [appmdi](https://github.com/izerui/appmdi) | APP-MDI Flex 应用多文档接口库 | 0 |
-| [CairngormBuilder](https://github.com/izerui/CairngormBuilder) | Flex Cairngorm 代码生成器 | 0 |
-| [activiti-next-taskDef-handle](https://github.com/izerui/activiti-next-taskDef-handle) | Activiti 获取下个即将流转的 UserTask 节点 | 0 |
-| [struts2-advanced-modelDriven](https://github.com/izerui/struts2-advanced-modelDriven) | Struts2 ModelDriven 高级应用 | 1 |
-| [activiti-bpmn-converter-exposition](https://github.com/izerui/activiti-bpmn-converter-exposition) | 📖 Activiti BPMN XML Converter 源码解析 | 1 |
+| [FlexPaper](https://github.com/izerui/FlexPaper) | 📖 基于 ActionScript3 的 PDF 阅读器 | 4 |
+| [cesium-language-writer](https://github.com/izerui/cesium-language-writer) | 🌍 Cesium CZML Writer | 0 |
+| [appmdi](https://github.com/izerui/appmdi) | 🖥️ APP-MDI Flex 应用多文档接口库 | 0 |
+| [CairngormBuilder](https://github.com/izerui/CairngormBuilder) | 🔨 Flex Cairngorm 代码生成器 | 0 |
+| [activiti-next-taskDef-handle](https://github.com/izerui/activiti-next-taskDef-handle) | 🔀 Activiti 获取下个即将流转的 UserTask 节点 | 0 |
+| [struts2-advanced-modelDriven](https://github.com/izerui/struts2-advanced-modelDriven) | 🛠️ Struts2 ModelDriven 高级应用 | 1 |
+| [activiti-bpmn-converter-exposition](https://github.com/izerui/activiti-bpmn-converter-exposition) | 📝 Activiti BPMN XML Converter 源码解析 | 1 |
 
 ---
 
