@@ -130,11 +130,13 @@
 
 | Service | Description |
 |---------|-------------|
-| **私有化 Agent 部署** | 为企业提供基于 simple-agents 的私有化 AI Agent 部署服务 |
-| **企业内部系统集成** | 将 AI Agent 能力集成到企业现有业务系统（ERP、CRM、OA 等） |
-| **定制化工作流开发** | 根据企业业务场景定制 Agent 工作流和自动化流程 |
-| **技术咨询与培训** | 云原生架构、智能体架构设计与技术培训 |
+| **私有化 Agent 部署** | 基于 LangGraph / LangChain / Claude Agent SDK / OpenAI SDK 等主流框架构建企业专属智能体<br>支持完全私有化部署与国产大模型适配，数据全程不出内网 |
+| **业务系统智能化改造** | 将 Agent 能力嵌入 ERP、MES、CRM、OA 等既有系统，打通企业内部数据与业务流程 |
+| **定制化工作流开发** | 面向具体业务场景设计多 Agent 协作与工具链，实现流程自动化与人机协同 |
+| **架构咨询与技术培训** | 分布式云原生架构、智能体架构的方案设计、技术选型与团队培训 |
 
+> 🧩 **技术栈中立**：既可基于自有开源实现 [simple-agents](https://github.com/izerui/simple-agents)、[open-web-agents](https://github.com/izerui/open-web-agents) 快速起步，也可对接客户既有框架与模型服务
+>
 > 💡 如有需求，欢迎联系洽谈定制开发方案
 
 </div>
