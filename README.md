@@ -36,8 +36,8 @@
 | [browser-fetch](https://github.com/izerui/browser-fetch) | 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
 | [simple-agents](https://github.com/izerui/simple-agents) | 🧠 开源 Agent 核心引擎<br>为企业提供私有部署的 AI Agent 解决方案 | - |
 | [kubernetes](https://github.com/style520/kubernetes) | 🔒 私有 Kubernetes 集群配置与自动化部署方案（闭源） | - |
-| [pps](https://github.com/feike-unit/pps) | 🏭 生产计划排程系统（Production Planning System），包含需求管理、产能规划、排产执行等功能，支持 Docker/K8s 部署（后端 Spring Boot + 前端 React） | - |
-| [front-pps](https://github.com/feike-unit/front-pps) | 🏭 生产计划管理系统前端，基于 React + TypeScript + RSBuild + Less 构建 | - |
+| [pps](https://github.com/izerui/pps) | 🏭 生产计划排程系统（Production Planning System），包含需求管理、产能规划、排产执行等功能，支持 Docker/K8s 部署（后端 Spring Boot + 前端 React） | - |
+| [front-pps](https://github.com/izerui/front-pps) | 🏭 生产计划管理系统前端，基于 React + TypeScript + RSBuild + Less 构建 | - |
 | [data-analysis-ai-agent](https://github.com/izerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
 | [flink-cdc](https://github.com/izerui/flink-cdc) | 🔄 Apache Flink CDC 实时数据同步系统，支持 MySQL 到 PostgreSQL/ClickHouse/Doris/MySQL 多目标数据库同步<br>支持全量+增量混合模式、表结构自动创建、数据类型智能映射、表名映射转换等 | - |
 | [satellite](https://github.com/izerui/satellite) | 🛰️ 卫星轨道计算与预测系统，基于 Spring Boot + predict4java，实现卫星 TLE 轨道计算、过境预测等功能 | - |
