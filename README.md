@@ -33,6 +33,7 @@
 | [langgraph-vue3-chatbot](https://github.com/izerui/langgraph-vue3-chatbot) | 🤖 AI Chatbot 前端悬浮对话组件，可集成到业务系统<br>🧠 后端基于开源的 [simple-agents](https://github.com/izerui/simple-agents) 提供 Agent 能力<br>💼 提供 B 端客户私有化部署及企业内部系统集成付费开发方案 | 0 |
 | [agent-chat-ui](https://github.com/izerui/agent-chat-ui) | 💬 面向 LangGraph Agent 的 Web 聊天界面，支持通过聊天界面与任意 LangGraph 服务交互 | 0 |
 | [open-web-agents](https://github.com/izerui/open-web-agents) | 🌐 基于 `claude-agent-sdk` 的智能体平台，支持可视化定义专用助手，并同时提供网页对话与系统 API 调用能力 | 0 |
+| [imux](https://github.com/izerui/imux) | 🧩 IntelliJ IDEA 插件（Kotlin），在编辑器标签页中管理 Claude Code / Codex 会话<br>📋 左侧 AI Agents 面板聚合会话列表，支持双击续聊、运行状态提示与完成通知 | 0 |
 | [browser-fetch](https://github.com/izerui/browser-fetch) | 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
 | [simple-agents](https://github.com/izerui/simple-agents) | 🧠 开源 Agent 核心引擎<br>为企业提供私有部署的 AI Agent 解决方案 | - |
 | [data-analysis-ai-agent](https://github.com/izerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
