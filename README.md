@@ -29,21 +29,27 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [langgraph-vue3-chatbot](https://github.com/izerui/langgraph-vue3-chatbot) | 🤖 AI Chatbot 前端悬浮对话组件（Vue3），后端基于 [simple-agents](https://github.com/izerui/simple-agents) 提供 Agent 能力<br>💼 提供 B 端客户私有化部署及企业内部系统集成付费开发方案 | 9 |
 | [langgraph-react-chatbot](https://github.com/izerui/langgraph-react-chatbot) | 🤖 面向 React 的 AI 聊天组件库，基于 `@langchain/langgraph-sdk` 实现与 LangGraph 后端的流式通信<br>💬 提供 `AskAiBot` 悬浮聊天窗和 `ChatBot` 嵌入式聊天面板，适合集成到业务系统 | 0 |
-| [langgraph-vue3-chatbot](https://github.com/izerui/langgraph-vue3-chatbot) | 🤖 AI Chatbot 前端悬浮对话组件，可集成到业务系统<br>🧠 后端基于开源的 [simple-agents](https://github.com/izerui/simple-agents) 提供 Agent 能力<br>💼 提供 B 端客户私有化部署及企业内部系统集成付费开发方案 | 0 |
+| [langgraph-java-sdk](https://github.com/izerui/langgraph-java-sdk) | ☕ LangGraph Java SDK，为 Java 生态提供 LangGraph 服务接入能力 | 0 |
 | [agent-chat-ui](https://github.com/izerui/agent-chat-ui) | 💬 面向 LangGraph Agent 的 Web 聊天界面，支持通过聊天界面与任意 LangGraph 服务交互 | 0 |
 | [open-web-agents](https://github.com/izerui/open-web-agents) | 🌐 基于 `claude-agent-sdk` 的智能体平台，支持可视化定义专用助手，并同时提供网页对话与系统 API 调用能力 | 0 |
 | [claude-codex-wechat](https://github.com/izerui/claude-codex-wechat) | 💬 微信遥控本机 Claude Code / Codex CLI 的桥接服务（TypeScript + Node.js）<br>📱 本地 bridge daemon 复用原生会话，支持扫码绑定、后台服务与随时恢复对话 | 0 |
-| [imux](https://github.com/izerui/imux) | 🧩 IntelliJ IDEA 插件（Kotlin），在编辑器标签页中管理 Claude Code / Codex 会话<br>📋 左侧 AI Agents 面板聚合会话列表，支持双击续聊、运行状态提示与完成通知 | 0 |
-| [browser-fetch](https://github.com/izerui/browser-fetch) | 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
-| [simple-agents](https://github.com/izerui/simple-agents) | 🧠 开源 Agent 核心引擎<br>为企业提供私有部署的 AI Agent 解决方案 | - |
-| [data-analysis-ai-agent](https://github.com/izerui/data-analysis-ai-agent) | 数据分析 AI Agent | - |
+| [simple-agents](https://github.com/izerui/simple-agents) | 🧠 开源 Agent 核心引擎<br>为企业提供私有部署的 AI Agent 解决方案 | 0 |
+| [AI-DEEP-AGENTS](https://github.com/izerui/AI-DEEP-AGENTS) | 🧪 基于 LangChain Deep Agents 框架的 ReAct 智能体示例 | 0 |
+| [coder](https://github.com/izerui/coder) | 🤖 命令行多 Agent 协作智能体系统，类似 Cursor 的智能化任务规划与执行方案 | 0 |
+| [aidoc](https://github.com/izerui/aidoc) | 📚 AI 智能知识对话 | 0 |
+| [data-analysis-ai-agent](https://github.com/izerui/data-analysis-ai-agent) | 📊 数据分析 AI Agent | 0 |
+| [llm-proxy](https://github.com/izerui/llm-proxy) | 🔍 LLM 代理，记录和分析 Cursor、Cline 等 Agent 与大模型的交互细节 | 1 |
+| [codex-session-cleaner](https://github.com/izerui/codex-session-cleaner) | 🧹 Codex 会话清理工具 | 0 |
+| [open-tts](https://github.com/izerui/open-tts) | 🗣️ 免费语音合成 API | 0 |
+| [browser-fetch](https://github.com/izerui/browser-fetch) | 🌐 专为 AI Agent 和智能体设计的浏览器抓取器，支持转 Markdown、截图 | 0 |
 
 ### Infrastructure & DevOps (2015-2026)
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [kubernetes](https://github.com/style520/kubernetes) | 🔒 私有 Kubernetes 集群配置与自动化部署方案（闭源） | - |
+| [kubernetes](https://github.com/style520/kubernetes) | 🔒 私有 Kubernetes 集群配置与自动化部署方案（闭源）<br>⚠️ *组织项目（style520），非个人仓库* | - |
 | [k8s-docker-devops](https://github.com/izerui/k8s-docker-devops) | ☸️ Docker、K8s 企业微信 CI/CD DevOps 服务 | - |
 | [docker-proxy](https://github.com/izerui/docker-proxy) | 🐳 Docker 代理转发服务，解决国内镜像拉取问题 | 0 |
 | [dolphie-ui](https://github.com/izerui/dolphie-ui) | 🐬 基于 Docker 的 MySQL 监控 Web 界面，通过 ttyd 提供 Web 访问能力 | 0 |
@@ -52,7 +58,7 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [flink-cdc](https://github.com/izerui/flink-cdc) | 🔄 Apache Flink CDC 实时数据同步系统，支持 MySQL 到 PostgreSQL/ClickHouse/Doris/MySQL 多目标数据库同步<br>支持全量+增量混合模式、表结构自动创建、数据类型智能映射、表名映射转换等 | - |
+| flink-cdc | 🔄 Apache Flink CDC 实时数据同步系统，支持 MySQL 到 PostgreSQL/ClickHouse/Doris/MySQL 多目标数据库同步<br>⚠️ *私有仓库，未公开* | - |
 | [flink-cdc-monitor](https://github.com/izerui/flink-cdc-monitor) | 🔄 Flink CDC 数据一致性监控工具，实时监控 PostgreSQL 与 MySQL 之间的数据同步状态 | 0 |
 | [mysql-to-pgsql](https://github.com/izerui/mysql-to-pgsql) | 🔄 同步 MySQL 到 PostgreSQL 高性能迁移服务，支持 K8s 部署 | 0 |
 | [mysql-migration-monitor](https://github.com/izerui/mysql-migration-monitor) | 🔍 MySQL 数据一致性监控工具，实时监控双数据库数据迁移状态 | 0 |
@@ -64,10 +70,10 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [pps](https://github.com/izerui/pps) | 🏭 生产计划排程系统（Production Planning System），包含需求管理、产能规划、排产执行等功能，支持 Docker/K8s 部署（后端 Spring Boot + 前端 React） | - |
-| [front-pps](https://github.com/izerui/front-pps) | 🏭 生产计划管理系统前端，基于 React + TypeScript + RSBuild + Less 构建 | - |
-| [satellite](https://github.com/izerui/satellite) | 🛰️ 卫星轨道计算与预测系统，基于 Spring Boot + predict4java，实现卫星 TLE 轨道计算、过境预测等功能 | - |
-| [amazon-transparency-scanrun](https://github.com/izerui/amazon-transparency-scanrun) | SourceMark v2 - 亚马逊透明计划 Transparency 服务代理 / 扫码装箱 | 0 |
+| [front-pps](https://github.com/izerui/front-pps) | 🏭 生产计划管理系统前端，基于 React + TypeScript + RSBuild + Less 构建 | 1 |
+| [pps](https://github.com/izerui/pps) | 🏭 生产计划排程系统（Production Planning System），包含需求管理、产能规划、排产执行等功能，支持 Docker/K8s 部署（后端 Spring Boot + 前端 React） | 0 |
+| [satellite](https://github.com/izerui/satellite) | 🛰️ 卫星轨道计算与预测系统，基于 SGP4/SDP4 模型，实现卫星 TLE 轨道计算、过境预测等功能 | 0 |
+| [amazon-transparency-scanrun](https://github.com/izerui/amazon-transparency-scanrun) | 📦 SourceMark v2 - 亚马逊透明计划 Transparency 服务代理 / 扫码装箱 | 0 |
 | [scanrun](https://github.com/izerui/scanrun) | 📦 扫码装箱程序，用于亚马逊透明计划等场景的扫码与装箱管理（PySide6 桌面应用） | - |
 
 ### Automation & Crawlers (2023-2025)
@@ -79,23 +85,32 @@
 | [auto-phone](https://github.com/izerui/auto-phone) | 📱 基于 Spring Boot 3 和火山引擎云手机服务的自动化手机管理系统 | 0 |
 | [shoppe-fetcher](https://github.com/izerui/shoppe-fetcher) | 🦐 虾皮广告收集器 Chrome 插件 | 0 |
 | [pydog](https://github.com/izerui/pydog) | 🐕 网购盘 Python 版本，支持 K8s 部署 | 0 |
-| [fmp-fetch](https://github.com/izerui/fmp-fetch) | 🌐 基于 Playwright 的网页自动化工具，用于自动点击"领取任务"按钮 | 0 |
+| [fmp-fetch](https://github.com/izerui/fmp-fetch) | 🌐 财务凭证自动领取工具（Playwright） | 0 |
 
-### Document & OCR (2023-2024)
+### Document & Media Processing (2023-2026)
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [DocsConvert](https://github.com/izerui/DocsConvert) | 📄 文档格式互转工具 | 0 |
 | [pdf-processor](https://github.com/izerui/pdf-processor) | 📄 PDF 处理工具，不改变原 PDF 质量的前提下添加 Header 并合并 | 0 |
 | [ocr-micro-service](https://github.com/izerui/ocr-micro-service) | 🤖 基于 PaddleOCR 和 Flask 的 OCR 微服务，支持图片和 PDF 文字识别 | 0 |
 | [pp-ocr](https://github.com/izerui/pp-ocr) | 🔤 OCR 批量识别工具，支持 PDF 和图片文字提取 | 0 |
+| [img-processor](https://github.com/izerui/img-processor) | 🖼️ 图片处理工具 | 0 |
 
-### Developer Tools & Frameworks (2015-2024)
+### Developer Tools & Frameworks (2015-2026)
 
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [zookeeper-explorer](https://github.com/izerui/zookeeper-explorer) | 🦓 Zookeeper 数据浏览器，支持 Web 界面查看节点数据 | 38 |
-| [work-weixin-spring-boot](https://github.com/izerui/work-weixin-spring-boot) | 📱 基于 WxJava 企业微信的多租户 Spring Boot Starter，支持自建应用和第三方应用 | 26 |
-| [aspose-crack-jars](https://github.com/izerui/aspose-crack-jars) | Aspose Crack 程序 | 10 |
+| [work-weixin-spring-boot](https://github.com/izerui/work-weixin-spring-boot) | 📱 基于 WxJava 企业微信的多租户 Spring Boot Starter，支持自建应用和第三方应用 | 29 |
+| [spring-boot-actuator-monitor](https://github.com/izerui/spring-boot-actuator-monitor) | 📊 基于 Spring Boot 的监控平台 | 11 |
+| [aspose-crack-jars](https://github.com/izerui/aspose-crack-jars) | 🔓 Aspose Crack 程序 | 10 |
+| [eureka-client](https://github.com/izerui/eureka-client) | 🔗 Eureka REST 客户端 | 7 |
+| [boot-netty-thrift-demo](https://github.com/izerui/boot-netty-thrift-demo) | ⚡ Spring Boot 整合 Thrift / Drift / Netty 构建高性能服务示例 | 2 |
+| [imux](https://github.com/izerui/imux) | 🧩 IntelliJ IDEA 插件（Kotlin），管理 Claude Code / Codex / Pi 会话<br>📋 左侧 AI Agents 面板聚合会话列表，支持双击续聊、运行状态提示与完成通知 | 0 |
+| [switch2zed](https://github.com/izerui/switch2zed) | 🔀 JetBrains IDE 与 Zed 编辑器无缝切换插件，支持快捷键和右键菜单 | 1 |
+| [github-actions-viewer](https://github.com/izerui/github-actions-viewer) | 👁️ GitHub Actions 查看器（Kotlin） | 0 |
+| [java-runner-feedback](https://github.com/izerui/java-runner-feedback) | 🔬 JavaAgent 工具，输出指定包下类的调用层次结构并以树状展示 | 0 |
 | [spring-boot-parent](https://github.com/izerui/spring-boot-parent) | ☕ Spring Boot 企业内部开发基础框架，提供统一的项目脚手架和依赖管理 | 0 |
 | [redis-explorer](https://github.com/izerui/redis-explorer) | 🔴 Redis 客户端工具，支持 Web 界面管理 Redis 数据 | 0 |
 
@@ -104,8 +119,10 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [tomcat-redis-session-manager](https://github.com/izerui/tomcat-redis-session-manager) | 🔴 使用 Redis 配置 Tomcat 共享 Session | **90** |
-| [cas-server-integration-redis](https://github.com/izerui/cas-server-integration-redis) | 🔐 CAS Ticket Registry，已被官方收录 | 37 |
+| [cas-server-integration-redis](https://github.com/izerui/cas-server-integration-redis) | 🔐 CAS Ticket Registry，已被官方收录 | 39 |
+| [cas-ticket-redis](https://github.com/izerui/cas-ticket-redis) | 🔐 基于 Redis 的 CAS Ticket 共享（`cas-server-integration-redis` 前身） | 21 |
 | [activiti-explorer](https://github.com/izerui/activiti-explorer) | ⚡ Activiti Explorer 集成版本 | 17 |
+| [activiti-modeler](https://github.com/izerui/activiti-modeler) | ⚡ Activiti Modeler 5.13 流程设计器 | 16 |
 | [flex-dog](https://github.com/izerui/flex-dog) | 📁 基于 Flex 的网络文件管理系统 | 12 |
 | [yeepay](https://github.com/izerui/yeepay) | 💰 易宝标准版支付 JAVA SDK（订单支付、退款、查询等接口） | 6 |
 | [base-development-platform](https://github.com/izerui/base-development-platform) | 🏗️ 基础开发框架 | 5 |
